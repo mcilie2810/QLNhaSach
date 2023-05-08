@@ -1,0 +1,120 @@
+E:\Lập trình\Nhập Môn Công Nghệ Phần Mềm\Nộp đồ án cuối kỳ\BOOKSTORE\BUS\bin\Debug\BUS.dll
+E:\Lập trình\Nhập Môn Công Nghệ Phần Mềm\Nộp đồ án cuối kỳ\BOOKSTORE\BUS\bin\Debug\BUS.pdb
+E:\Lập trình\Nhập Môn Công Nghệ Phần Mềm\Nộp đồ án cuối kỳ\BOOKSTORE\BUS\bin\Debug\DAO.dll
+E:\Lập trình\Nhập Môn Công Nghệ Phần Mềm\Nộp đồ án cuối kỳ\BOOKSTORE\BUS\bin\Debug\DTO.dll
+E:\Lập trình\Nhập Môn Công Nghệ Phần Mềm\Nộp đồ án cuối kỳ\BOOKSTORE\BUS\bin\Debug\DAO.pdb
+E:\Lập trình\Nhập Môn Công Nghệ Phần Mềm\Nộp đồ án cuối kỳ\BOOKSTORE\BUS\bin\Debug\DTO.pdb
+E:\Lập trình\Nhập Môn Công Nghệ Phần Mềm\Nộp đồ án cuối kỳ\BOOKSTORE\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Lập trình\Nhập Môn Công Nghệ Phần Mềm\Nộp đồ án cuối kỳ\BOOKSTORE\BUS\obj\Debug\BUS.dll
+E:\Lập trình\Nhập Môn Công Nghệ Phần Mềm\Nộp đồ án cuối kỳ\BOOKSTORE\BUS\obj\Debug\BUS.pdb
+E:\BOOKSTORE\BUS\bin\Debug\BUS.dll
+E:\BOOKSTORE\BUS\bin\Debug\BUS.pdb
+E:\BOOKSTORE\BUS\bin\Debug\DAO.dll
+E:\BOOKSTORE\BUS\bin\Debug\DTO.dll
+E:\BOOKSTORE\BUS\bin\Debug\DAO.pdb
+E:\BOOKSTORE\BUS\bin\Debug\DTO.pdb
+E:\BOOKSTORE\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\BOOKSTORE\BUS\obj\Debug\BUS.dll
+E:\BOOKSTORE\BUS\obj\Debug\BUS.pdb
+E:\Lập trình\BOOKSTORE\BUS\bin\Debug\BUS.dll
+E:\Lập trình\BOOKSTORE\BUS\bin\Debug\BUS.pdb
+E:\Lập trình\BOOKSTORE\BUS\bin\Debug\DAO.dll
+E:\Lập trình\BOOKSTORE\BUS\bin\Debug\DTO.dll
+E:\Lập trình\BOOKSTORE\BUS\bin\Debug\DAO.pdb
+E:\Lập trình\BOOKSTORE\BUS\bin\Debug\DTO.pdb
+E:\Lập trình\BOOKSTORE\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Lập trình\BOOKSTORE\BUS\obj\Debug\BUS.dll
+E:\Lập trình\BOOKSTORE\BUS\obj\Debug\BUS.pdb
+E:\Dropbox\BOOKSTORE\BUS\bin\Debug\BUS.dll
+E:\Dropbox\BOOKSTORE\BUS\bin\Debug\BUS.pdb
+E:\Dropbox\BOOKSTORE\BUS\bin\Debug\DAO.dll
+E:\Dropbox\BOOKSTORE\BUS\bin\Debug\DTO.dll
+E:\Dropbox\BOOKSTORE\BUS\bin\Debug\DAO.pdb
+E:\Dropbox\BOOKSTORE\BUS\bin\Debug\DTO.pdb
+E:\Dropbox\BOOKSTORE\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Dropbox\BOOKSTORE\BUS\obj\Debug\BUS.dll
+E:\Dropbox\BOOKSTORE\BUS\obj\Debug\BUS.pdb
+E:\Đồ án NM CNPM\BOOKSTORE\BUS\bin\Debug\BUS.dll
+E:\Đồ án NM CNPM\BOOKSTORE\BUS\bin\Debug\BUS.pdb
+E:\Đồ án NM CNPM\BOOKSTORE\BUS\bin\Debug\DAO.dll
+E:\Đồ án NM CNPM\BOOKSTORE\BUS\bin\Debug\DTO.dll
+E:\Đồ án NM CNPM\BOOKSTORE\BUS\bin\Debug\DAO.pdb
+E:\Đồ án NM CNPM\BOOKSTORE\BUS\bin\Debug\DTO.pdb
+E:\Đồ án NM CNPM\BOOKSTORE\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Đồ án NM CNPM\BOOKSTORE\BUS\obj\Debug\BUS.dll
+E:\Đồ án NM CNPM\BOOKSTORE\BUS\obj\Debug\BUS.pdb
+D:\GitHub\BOOKSTORE\BOOKSTORE\BUS\bin\Debug\BUS.dll
+D:\GitHub\BOOKSTORE\BOOKSTORE\BUS\bin\Debug\BUS.pdb
+D:\GitHub\BOOKSTORE\BOOKSTORE\BUS\bin\Debug\DAO.dll
+D:\GitHub\BOOKSTORE\BOOKSTORE\BUS\bin\Debug\DTO.dll
+D:\GitHub\BOOKSTORE\BOOKSTORE\BUS\bin\Debug\DAO.pdb
+D:\GitHub\BOOKSTORE\BOOKSTORE\BUS\bin\Debug\DTO.pdb
+D:\GitHub\BOOKSTORE\BOOKSTORE\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\GitHub\BOOKSTORE\BOOKSTORE\BUS\obj\Debug\BUS.dll
+D:\GitHub\BOOKSTORE\BOOKSTORE\BUS\obj\Debug\BUS.pdb
+D:\Workspace\Code\C#\BOOKSTORE\BOOKSTORE\BUS\bin\Debug\BUS.dll
+D:\Workspace\Code\C#\BOOKSTORE\BOOKSTORE\BUS\bin\Debug\BUS.pdb
+D:\Workspace\Code\C#\BOOKSTORE\BOOKSTORE\BUS\bin\Debug\DAO.dll
+D:\Workspace\Code\C#\BOOKSTORE\BOOKSTORE\BUS\bin\Debug\DTO.dll
+D:\Workspace\Code\C#\BOOKSTORE\BOOKSTORE\BUS\bin\Debug\DAO.pdb
+D:\Workspace\Code\C#\BOOKSTORE\BOOKSTORE\BUS\bin\Debug\DTO.pdb
+D:\Workspace\Code\C#\BOOKSTORE\BOOKSTORE\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Workspace\Code\C#\BOOKSTORE\BOOKSTORE\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Workspace\Code\C#\BOOKSTORE\BOOKSTORE\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Workspace\Code\C#\BOOKSTORE\BOOKSTORE\BUS\obj\Debug\BUS.dll
+D:\Workspace\Code\C#\BOOKSTORE\BOOKSTORE\BUS\obj\Debug\BUS.pdb
+C:\Users\Admin\Desktop\NMCNPM\BOOKSTORE\BOOKSTORE\BUS\bin\Debug\BUS.dll
+C:\Users\Admin\Desktop\NMCNPM\BOOKSTORE\BOOKSTORE\BUS\bin\Debug\BUS.pdb
+C:\Users\Admin\Desktop\NMCNPM\BOOKSTORE\BOOKSTORE\BUS\bin\Debug\DAO.dll
+C:\Users\Admin\Desktop\NMCNPM\BOOKSTORE\BOOKSTORE\BUS\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\NMCNPM\BOOKSTORE\BOOKSTORE\BUS\bin\Debug\DAO.pdb
+C:\Users\Admin\Desktop\NMCNPM\BOOKSTORE\BOOKSTORE\BUS\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\NMCNPM\BOOKSTORE\BOOKSTORE\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\NMCNPM\BOOKSTORE\BOOKSTORE\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\NMCNPM\BOOKSTORE\BOOKSTORE\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Admin\Desktop\NMCNPM\BOOKSTORE\BOOKSTORE\BUS\obj\Debug\BUS.dll
+C:\Users\Admin\Desktop\NMCNPM\BOOKSTORE\BOOKSTORE\BUS\obj\Debug\BUS.pdb
+D:\STUDY\DHSP\Year2\HK1\NhapMonCNPM\Project cuối kì\Bookstore01\BUS\bin\Debug\BUS.dll
+D:\STUDY\DHSP\Year2\HK1\NhapMonCNPM\Project cuối kì\Bookstore01\BUS\bin\Debug\BUS.pdb
+D:\STUDY\DHSP\Year2\HK1\NhapMonCNPM\Project cuối kì\Bookstore01\BUS\bin\Debug\DAO.dll
+D:\STUDY\DHSP\Year2\HK1\NhapMonCNPM\Project cuối kì\Bookstore01\BUS\bin\Debug\DTO.dll
+D:\STUDY\DHSP\Year2\HK1\NhapMonCNPM\Project cuối kì\Bookstore01\BUS\bin\Debug\DAO.pdb
+D:\STUDY\DHSP\Year2\HK1\NhapMonCNPM\Project cuối kì\Bookstore01\BUS\bin\Debug\DTO.pdb
+D:\STUDY\DHSP\Year2\HK1\NhapMonCNPM\Project cuối kì\Bookstore01\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\STUDY\DHSP\Year2\HK1\NhapMonCNPM\Project cuối kì\Bookstore01\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\STUDY\DHSP\Year2\HK1\NhapMonCNPM\Project cuối kì\Bookstore01\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\STUDY\DHSP\Year2\HK1\NhapMonCNPM\Project cuối kì\Bookstore01\BUS\obj\Debug\BUS.dll
+D:\STUDY\DHSP\Year2\HK1\NhapMonCNPM\Project cuối kì\Bookstore01\BUS\obj\Debug\BUS.pdb
+D:\Workspace\Code\C#\Bookstore\BUS\bin\Debug\BUS.dll
+D:\Workspace\Code\C#\Bookstore\BUS\bin\Debug\BUS.pdb
+D:\Workspace\Code\C#\Bookstore\BUS\bin\Debug\DAO.dll
+D:\Workspace\Code\C#\Bookstore\BUS\bin\Debug\DTO.dll
+D:\Workspace\Code\C#\Bookstore\BUS\bin\Debug\DAO.pdb
+D:\Workspace\Code\C#\Bookstore\BUS\bin\Debug\DTO.pdb
+D:\Workspace\Code\C#\Bookstore\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Workspace\Code\C#\Bookstore\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Workspace\Code\C#\Bookstore\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Workspace\Code\C#\Bookstore\BUS\obj\Debug\BUS.dll
+D:\Workspace\Code\C#\Bookstore\BUS\obj\Debug\BUS.pdb
+D:\STUDY\DHSP\Year2\HK1\NhapMonCNPM\Project cuối kì\Bookstore\BUS\bin\Debug\BUS.dll
+D:\STUDY\DHSP\Year2\HK1\NhapMonCNPM\Project cuối kì\Bookstore\BUS\bin\Debug\BUS.pdb
+D:\STUDY\DHSP\Year2\HK1\NhapMonCNPM\Project cuối kì\Bookstore\BUS\bin\Debug\DAO.dll
+D:\STUDY\DHSP\Year2\HK1\NhapMonCNPM\Project cuối kì\Bookstore\BUS\bin\Debug\DTO.dll
+D:\STUDY\DHSP\Year2\HK1\NhapMonCNPM\Project cuối kì\Bookstore\BUS\bin\Debug\DAO.pdb
+D:\STUDY\DHSP\Year2\HK1\NhapMonCNPM\Project cuối kì\Bookstore\BUS\bin\Debug\DTO.pdb
+D:\STUDY\DHSP\Year2\HK1\NhapMonCNPM\Project cuối kì\Bookstore\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\STUDY\DHSP\Year2\HK1\NhapMonCNPM\Project cuối kì\Bookstore\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\STUDY\DHSP\Year2\HK1\NhapMonCNPM\Project cuối kì\Bookstore\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\STUDY\DHSP\Year2\HK1\NhapMonCNPM\Project cuối kì\Bookstore\BUS\obj\Debug\BUS.dll
+D:\STUDY\DHSP\Year2\HK1\NhapMonCNPM\Project cuối kì\Bookstore\BUS\obj\Debug\BUS.pdb
+C:\Users\ADMIN\Bookstore\BUS\bin\Debug\BUS.dll
+C:\Users\ADMIN\Bookstore\BUS\bin\Debug\BUS.pdb
+C:\Users\ADMIN\Bookstore\BUS\bin\Debug\DAO.dll
+C:\Users\ADMIN\Bookstore\BUS\bin\Debug\DTO.dll
+C:\Users\ADMIN\Bookstore\BUS\bin\Debug\DAO.pdb
+C:\Users\ADMIN\Bookstore\BUS\bin\Debug\DTO.pdb
+C:\Users\ADMIN\Bookstore\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Bookstore\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Bookstore\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\ADMIN\Bookstore\BUS\obj\Debug\BUS.dll
+C:\Users\ADMIN\Bookstore\BUS\obj\Debug\BUS.pdb

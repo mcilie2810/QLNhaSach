@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BUS",
+    "\\DAO",
+    "\\DTO",
+    "\\GUI",
+    "\\SetupBOOKSTORE",
+    "\\SetupBOOKSTORE\\Debug",
+    "\\SetupBOOKSTORE\\Release"
+  ],
+  "SelectedNode": "\\GUI\\GUI.csproj",
+  "PreviewInSolutionExplorer": false
+}

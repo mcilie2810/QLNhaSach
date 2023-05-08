@@ -1,0 +1,96 @@
+E:\Lập trình\Nhập Môn Công Nghệ Phần Mềm\Nộp đồ án cuối kỳ\BOOKSTORE\DAO\bin\Debug\DAO.dll
+E:\Lập trình\Nhập Môn Công Nghệ Phần Mềm\Nộp đồ án cuối kỳ\BOOKSTORE\DAO\bin\Debug\DAO.pdb
+E:\Lập trình\Nhập Môn Công Nghệ Phần Mềm\Nộp đồ án cuối kỳ\BOOKSTORE\DAO\bin\Debug\DTO.dll
+E:\Lập trình\Nhập Môn Công Nghệ Phần Mềm\Nộp đồ án cuối kỳ\BOOKSTORE\DAO\bin\Debug\DTO.pdb
+E:\Lập trình\Nhập Môn Công Nghệ Phần Mềm\Nộp đồ án cuối kỳ\BOOKSTORE\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\Lập trình\Nhập Môn Công Nghệ Phần Mềm\Nộp đồ án cuối kỳ\BOOKSTORE\DAO\obj\Debug\DAO.dll
+E:\Lập trình\Nhập Môn Công Nghệ Phần Mềm\Nộp đồ án cuối kỳ\BOOKSTORE\DAO\obj\Debug\DAO.pdb
+E:\BOOKSTORE\DAO\bin\Debug\DAO.dll
+E:\BOOKSTORE\DAO\bin\Debug\DAO.pdb
+E:\BOOKSTORE\DAO\bin\Debug\DTO.dll
+E:\BOOKSTORE\DAO\bin\Debug\DTO.pdb
+E:\BOOKSTORE\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\BOOKSTORE\DAO\obj\Debug\DAO.dll
+E:\BOOKSTORE\DAO\obj\Debug\DAO.pdb
+E:\Lập trình\BOOKSTORE\DAO\bin\Debug\DAO.dll
+E:\Lập trình\BOOKSTORE\DAO\bin\Debug\DAO.pdb
+E:\Lập trình\BOOKSTORE\DAO\bin\Debug\DTO.dll
+E:\Lập trình\BOOKSTORE\DAO\bin\Debug\DTO.pdb
+E:\Lập trình\BOOKSTORE\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\Lập trình\BOOKSTORE\DAO\obj\Debug\DAO.dll
+E:\Lập trình\BOOKSTORE\DAO\obj\Debug\DAO.pdb
+E:\Dropbox\BOOKSTORE\DAO\bin\Debug\DAO.dll
+E:\Dropbox\BOOKSTORE\DAO\bin\Debug\DAO.pdb
+E:\Dropbox\BOOKSTORE\DAO\bin\Debug\DTO.dll
+E:\Dropbox\BOOKSTORE\DAO\bin\Debug\DTO.pdb
+E:\Dropbox\BOOKSTORE\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\Dropbox\BOOKSTORE\DAO\obj\Debug\DAO.dll
+E:\Dropbox\BOOKSTORE\DAO\obj\Debug\DAO.pdb
+E:\Đồ án NM CNPM\BOOKSTORE\DAO\bin\Debug\DAO.dll
+E:\Đồ án NM CNPM\BOOKSTORE\DAO\bin\Debug\DAO.pdb
+E:\Đồ án NM CNPM\BOOKSTORE\DAO\bin\Debug\DTO.dll
+E:\Đồ án NM CNPM\BOOKSTORE\DAO\bin\Debug\DTO.pdb
+E:\Đồ án NM CNPM\BOOKSTORE\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\Đồ án NM CNPM\BOOKSTORE\DAO\obj\Debug\DAO.dll
+E:\Đồ án NM CNPM\BOOKSTORE\DAO\obj\Debug\DAO.pdb
+D:\GitHub\BOOKSTORE\BOOKSTORE\DAO\bin\Debug\DAO.dll
+D:\GitHub\BOOKSTORE\BOOKSTORE\DAO\bin\Debug\DAO.pdb
+D:\GitHub\BOOKSTORE\BOOKSTORE\DAO\bin\Debug\DTO.dll
+D:\GitHub\BOOKSTORE\BOOKSTORE\DAO\bin\Debug\DTO.pdb
+D:\GitHub\BOOKSTORE\BOOKSTORE\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\GitHub\BOOKSTORE\BOOKSTORE\DAO\obj\Debug\DAO.dll
+D:\GitHub\BOOKSTORE\BOOKSTORE\DAO\obj\Debug\DAO.pdb
+D:\Workspace\Code\C#\BOOKSTORE\BOOKSTORE\DAO\bin\Debug\DAO.dll
+D:\Workspace\Code\C#\BOOKSTORE\BOOKSTORE\DAO\bin\Debug\DAO.pdb
+D:\Workspace\Code\C#\BOOKSTORE\BOOKSTORE\DAO\bin\Debug\DTO.dll
+D:\Workspace\Code\C#\BOOKSTORE\BOOKSTORE\DAO\bin\Debug\DTO.pdb
+D:\Workspace\Code\C#\BOOKSTORE\BOOKSTORE\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\Workspace\Code\C#\BOOKSTORE\BOOKSTORE\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\Workspace\Code\C#\BOOKSTORE\BOOKSTORE\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\Workspace\Code\C#\BOOKSTORE\BOOKSTORE\DAO\obj\Debug\DAO.dll
+D:\Workspace\Code\C#\BOOKSTORE\BOOKSTORE\DAO\obj\Debug\DAO.pdb
+C:\Users\Admin\Desktop\NMCNPM\BOOKSTORE\BOOKSTORE\DAO\bin\Debug\DAO.dll
+C:\Users\Admin\Desktop\NMCNPM\BOOKSTORE\BOOKSTORE\DAO\bin\Debug\DAO.pdb
+C:\Users\Admin\Desktop\NMCNPM\BOOKSTORE\BOOKSTORE\DAO\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\NMCNPM\BOOKSTORE\BOOKSTORE\DAO\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\NMCNPM\BOOKSTORE\BOOKSTORE\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\NMCNPM\BOOKSTORE\BOOKSTORE\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\NMCNPM\BOOKSTORE\BOOKSTORE\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\Admin\Desktop\NMCNPM\BOOKSTORE\BOOKSTORE\DAO\obj\Debug\DAO.dll
+C:\Users\Admin\Desktop\NMCNPM\BOOKSTORE\BOOKSTORE\DAO\obj\Debug\DAO.pdb
+D:\STUDY\DHSP\Year2\HK1\NhapMonCNPM\Project cuối kì\Bookstore01\DAO\bin\Debug\DAO.dll
+D:\STUDY\DHSP\Year2\HK1\NhapMonCNPM\Project cuối kì\Bookstore01\DAO\bin\Debug\DAO.pdb
+D:\STUDY\DHSP\Year2\HK1\NhapMonCNPM\Project cuối kì\Bookstore01\DAO\bin\Debug\DTO.dll
+D:\STUDY\DHSP\Year2\HK1\NhapMonCNPM\Project cuối kì\Bookstore01\DAO\bin\Debug\DTO.pdb
+D:\STUDY\DHSP\Year2\HK1\NhapMonCNPM\Project cuối kì\Bookstore01\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\STUDY\DHSP\Year2\HK1\NhapMonCNPM\Project cuối kì\Bookstore01\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\STUDY\DHSP\Year2\HK1\NhapMonCNPM\Project cuối kì\Bookstore01\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\STUDY\DHSP\Year2\HK1\NhapMonCNPM\Project cuối kì\Bookstore01\DAO\obj\Debug\DAO.dll
+D:\STUDY\DHSP\Year2\HK1\NhapMonCNPM\Project cuối kì\Bookstore01\DAO\obj\Debug\DAO.pdb
+D:\Workspace\Code\C#\Bookstore\DAO\bin\Debug\DAO.dll
+D:\Workspace\Code\C#\Bookstore\DAO\bin\Debug\DAO.pdb
+D:\Workspace\Code\C#\Bookstore\DAO\bin\Debug\DTO.dll
+D:\Workspace\Code\C#\Bookstore\DAO\bin\Debug\DTO.pdb
+D:\Workspace\Code\C#\Bookstore\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\Workspace\Code\C#\Bookstore\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\Workspace\Code\C#\Bookstore\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\Workspace\Code\C#\Bookstore\DAO\obj\Debug\DAO.dll
+D:\Workspace\Code\C#\Bookstore\DAO\obj\Debug\DAO.pdb
+D:\STUDY\DHSP\Year2\HK1\NhapMonCNPM\Project cuối kì\Bookstore\DAO\bin\Debug\DAO.dll
+D:\STUDY\DHSP\Year2\HK1\NhapMonCNPM\Project cuối kì\Bookstore\DAO\bin\Debug\DAO.pdb
+D:\STUDY\DHSP\Year2\HK1\NhapMonCNPM\Project cuối kì\Bookstore\DAO\bin\Debug\DTO.dll
+D:\STUDY\DHSP\Year2\HK1\NhapMonCNPM\Project cuối kì\Bookstore\DAO\bin\Debug\DTO.pdb
+D:\STUDY\DHSP\Year2\HK1\NhapMonCNPM\Project cuối kì\Bookstore\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\STUDY\DHSP\Year2\HK1\NhapMonCNPM\Project cuối kì\Bookstore\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\STUDY\DHSP\Year2\HK1\NhapMonCNPM\Project cuối kì\Bookstore\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\STUDY\DHSP\Year2\HK1\NhapMonCNPM\Project cuối kì\Bookstore\DAO\obj\Debug\DAO.dll
+D:\STUDY\DHSP\Year2\HK1\NhapMonCNPM\Project cuối kì\Bookstore\DAO\obj\Debug\DAO.pdb
+C:\Users\ADMIN\Bookstore\DAO\bin\Debug\DAO.dll
+C:\Users\ADMIN\Bookstore\DAO\bin\Debug\DAO.pdb
+C:\Users\ADMIN\Bookstore\DAO\bin\Debug\DTO.dll
+C:\Users\ADMIN\Bookstore\DAO\bin\Debug\DTO.pdb
+C:\Users\ADMIN\Bookstore\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Bookstore\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Bookstore\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\ADMIN\Bookstore\DAO\obj\Debug\DAO.dll
+C:\Users\ADMIN\Bookstore\DAO\obj\Debug\DAO.pdb
